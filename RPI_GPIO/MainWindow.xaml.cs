@@ -66,7 +66,7 @@ namespace RPI_GPIO
         private void Mouse_Click_Btn(object sender, MouseButtonEventArgs e)
         {
             Button BTN = (Button)sender;
-            SetSelectedPin(Convert.ToInt32(BTN.Content), BTN);
+            SetSelectedPin(Convert.ToInt32(BTN.Tag), BTN);
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
