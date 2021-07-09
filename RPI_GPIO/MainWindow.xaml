@@ -82,45 +82,45 @@
         <Button Tag="20" Content="" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="19" VerticalAlignment="Top" Width="25" Height="25" PreviewMouseDown="Mouse_Click_Btn"/>
         <Button Tag="" Content="" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="20" VerticalAlignment="Top" Width="25" Height="25"/>
         <Button Tag="21" Content="" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="20" VerticalAlignment="Top" Width="25" Height="25" PreviewMouseDown="Mouse_Click_Btn"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="1" TextWrapping="Wrap" Text="3V3 power" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="1" TextWrapping="Wrap" Text="5V power" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="2" TextWrapping="Wrap" Text="GPIO 2 (SDA)" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="2" TextWrapping="Wrap" Text="5V power" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="3" TextWrapping="Wrap" Text="GPIO 3 (SCL)" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="3" TextWrapping="Wrap" Text="Ground" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="4" TextWrapping="Wrap" Text="GPIO 4 (GPCLK0)" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="4" TextWrapping="Wrap" Text="GPIO 14 (TxD)" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="5" TextWrapping="Wrap" Text="Ground" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="5" TextWrapping="Wrap" Text="GPIO 15 (RxD)" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="6" TextWrapping="Wrap" Text="GPIO 17" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="6" TextWrapping="Wrap" Text="GPIO 18" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="7" TextWrapping="Wrap" Text="GPIO 27" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="7" TextWrapping="Wrap" Text="Ground" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="8" TextWrapping="Wrap" Text="GPIO 22" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="8" TextWrapping="Wrap" Text="GPIO 23" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="9" TextWrapping="Wrap" Text="3V3 power" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="9" TextWrapping="Wrap" Text="GPIO 24" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="10" TextWrapping="Wrap" Text="GPIO 10 (MOSI)" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="10" TextWrapping="Wrap" Text="Ground" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="11" TextWrapping="Wrap" Text="GPIO 9 (MISO)" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="11" TextWrapping="Wrap" Text="GPIO 25" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="12" TextWrapping="Wrap" Text="GPIO 11 (SCLK)" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="12" TextWrapping="Wrap" Text="GPIO 8" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="13" TextWrapping="Wrap" Text="Ground" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="13" TextWrapping="Wrap" Text="GPIO 7" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="14" TextWrapping="Wrap" Text="GPIO 0" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="14" TextWrapping="Wrap" Text="GPIO 1" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="15" TextWrapping="Wrap" Text="GPIO 5" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="15" TextWrapping="Wrap" Text="Ground" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="16" TextWrapping="Wrap" Text="GPIO 6" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="16" TextWrapping="Wrap" Text="GPIO 12" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="17" TextWrapping="Wrap" Text="GPIO 13" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="17" TextWrapping="Wrap" Text="Ground" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="18" TextWrapping="Wrap" Text="GPIO 19" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="18" TextWrapping="Wrap" Text="GPIO 16" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="19" TextWrapping="Wrap" Text="GPIO 26" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="19" TextWrapping="Wrap" Text="GPIO 20" VerticalAlignment="Top" Width="100"/>
-        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="20" TextWrapping="Wrap" Text="Ground" VerticalAlignment="Top" Width="100" TextAlignment="Right"/>
-        <TextBox Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="20" TextWrapping="Wrap" Text="GPIO 21" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="1" Content="3V3 power" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="1" Content="5V power" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="2" Content="GPIO 2 (SDA)" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="2" Content="5V power" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="3" Content="GPIO 3 (SCL)" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="3" Content="Ground" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="4" Content="GPIO 4 (GPCLK0)" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="4" Content="GPIO 14 (TxD)" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="5" Content="Ground" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="5" Content="GPIO 15 (RxD)" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="6" Content="GPIO 17" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="6" Content="GPIO 18" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="7" Content="GPIO 27" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="7" Content="Ground" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="8" Content="GPIO 22" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="8" Content="GPIO 23" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="9" Content="3V3 power" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="9" Content="GPIO 24" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="10" Content="GPIO 10 (MOSI)" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="10" Content="Ground" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="11" Content="GPIO 9 (MISO)" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="11" Content="GPIO 25" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="12" Content="GPIO 11 (SCLK)" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="12" Content="GPIO 8" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="13" Content="Ground" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="13" Content="GPIO 7" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="14" Content="GPIO 0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="14" Content="GPIO 1" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="15" Content="GPIO 5" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="15" Content="Ground" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="16" Content="GPIO 6" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="16" Content="GPIO 12" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="17" Content="GPIO 13" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="17" Content="Ground" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="18" Content="GPIO 19" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="18" Content="GPIO 16" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="19" Content="GPIO 26" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="19" Content="GPIO 20" VerticalAlignment="Top" Width="100"/>
+        <Label Grid.Column="1" HorizontalAlignment="Left" Height="25" Grid.Row="20" Content="Ground" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right"/>
+        <Label Grid.Column="4" HorizontalAlignment="Left" Height="25" Grid.Row="20" Content="GPIO 21" VerticalAlignment="Top" Width="100"/>
     </Grid>
 </Window>
