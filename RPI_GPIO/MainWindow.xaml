@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RPI_GPIO"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="300">
+        Title="RPi GPIO WIN10" Height="600" Width="300">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="40" />

@@ -44,7 +44,6 @@ namespace RPI_GPIO
 
                 string Status = controller.Read(pin).ToString();
 
-                MessageBox.Show(Status);
 
                 if (Status == "Low")
                 {
